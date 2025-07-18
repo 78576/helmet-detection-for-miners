@@ -8,21 +8,29 @@ The goal of this project is to improve safety in mining environments by using AI
 ## 📁 What’s Included in This Repository
 - YOLO training configuration files
 - Testing scripts and detection notebooks
-- Labelled dataset folders (only references; not full dataset)
+- Sample demo video 🎥
+- Labelled dataset folders (only structure; no full dataset)
 
-⚠️ **Note**: The full dataset is **not uploaded here** due to size restrictions. Please use the instructions below to download it.
+⚠️ **Note**: The full dataset is **not uploaded here** due to size limits. Please follow the instructions below to download it.
+
+---
+
+## 📽️ Demo Video
+
+🎬 **Watch the demo of the helmet detection system in action**:  
+👉 See the video in the **uploaded files** section of this repository (e.g., `helmet_detection_demo.mp4`).
 
 ---
 
 ## 📥 Dataset Access
-You can download the complete dataset from **Roboflow**:
 
-🔗 [Roboflow Helmet Detection Dataset](https://universe.roboflow.com/)  
-(Search for: `helmet detection for miners` or upload your own dataset)
+You can download the full dataset from **Roboflow**:
+
+🔗 [Construction Helmet Detection Dataset on Roboflow](https://universe.roboflow.com/construction-helmet/construction-helmet-detection)
 
 Once downloaded:
-- Place the dataset folder inside the project directory
-- Make sure paths in your `data.yaml` or training script are updated accordingly
+- Unzip it and place the dataset folder inside this project directory.
+- Ensure paths in `data.yaml` or training scripts are updated accordingly.
 
 ---
 
