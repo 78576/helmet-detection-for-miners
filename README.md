@@ -18,7 +18,10 @@ The goal of this project is to improve safety in mining environments by using AI
 ## 📽️ Demo Video
 
 🎬 **Watch the demo of the helmet detection system in action**:  
-👉 See the video in the **uploaded files** section of this repository (e.g., `helmet_detection_demo.mp4`).
+👉 [View on LinkedIn](https://www.linkedin.com/posts/sanjh-ladhani-data-science_yolov8-computervision-aiforsafety-activity-7351969119929303040-DN1_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADgvzc8B8YAV76tOsdlhe-Z1o54v3ORqkd0)
+
+This short demo shows the model detecting helmets in real-time using a webcam. A helmet was worn during testing to demonstrate proper detection working in a live setup.
+
 
 ---
 
